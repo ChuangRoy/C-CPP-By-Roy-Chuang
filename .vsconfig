@@ -22,6 +22,13 @@
     "Microsoft.VisualStudio.ComponentGroup.NativeDesktop.Core",
     "Microsoft.VisualStudio.ComponentGroup.WebToolsExtensions.CMake",
     "Microsoft.VisualStudio.Component.VC.CMake.Project",
-    "Microsoft.VisualStudio.Workload.NativeDesktop"
+    "Microsoft.VisualStudio.Component.VC.Llvm.ClangToolset",
+    "Microsoft.VisualStudio.Component.VC.Llvm.Clang",
+    "Microsoft.VisualStudio.ComponentGroup.NativeDesktop.Llvm.Clang",
+    "Component.IncredibuildMenu",
+    "Component.Incredibuild",
+    "Microsoft.VisualStudio.Workload.NativeDesktop",
+    "Microsoft.VisualStudio.Component.Graphics",
+    "Microsoft.VisualStudio.Component.ClassDesigner"
   ]
 }
