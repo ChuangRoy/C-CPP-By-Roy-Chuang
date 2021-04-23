@@ -4,5 +4,7 @@
 int main()
 {
     printf("Hello world!\n");
+    printf("«¢Åo¤j®a¦n¡I\n");
+    system("pause");
     return 0;
 }
