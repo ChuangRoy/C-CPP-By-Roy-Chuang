@@ -4,7 +4,7 @@
 int main()
 {
     printf("Hello world!\n");
-    printf("哈囉大家好！\n");
+    printf("哈囉大家好\n");
     system("pause");
     return 0;
 }
