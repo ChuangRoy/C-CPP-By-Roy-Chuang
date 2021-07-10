@@ -4,9 +4,9 @@
         {
             "label": "build",
             "type": "shell",
-            "command": "g++",
+            "command": "clang++",
             "args": [
-                "-g", "${file}", "-o", "${fileBasenameNoExtension}.exe"
+                "-o", "${fileBasenameNoExtension}.exe","-target","x86_64-pc-windows-gnu", "-v", "${file}"
             ],
             "group": {
                 "kind": "build",
