@@ -1,7 +1,7 @@
 #include <iostream>
 
-int main()
-{
-    std::cout << "Hello World!\n";
-    system("pause");
+int main() {
+  std::cout << "Hello World!\n";
+  std::cout << "ด๚ธี\n";
+  system("pause");
 }
